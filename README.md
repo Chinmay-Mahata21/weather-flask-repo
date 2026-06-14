@@ -1,4 +1,4 @@
-#  Weather App
+#   Weather App
 
 A simple weather application built with **Flask**, **HTML**, and **CSS** that allows users to search for any city and view its current weather conditions in real time.
 
